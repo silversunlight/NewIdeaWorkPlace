@@ -1,4 +1,4 @@
-package interfaces;
+package interfaces.Injection;
 
 public class InjectionDAOImpl implements InjectionDAO {
 

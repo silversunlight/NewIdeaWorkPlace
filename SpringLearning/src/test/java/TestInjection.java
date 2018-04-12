@@ -1,4 +1,4 @@
-import interfaces.InjectionService;
+import interfaces.Injection.InjectionService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.BlockJUnit4ClassRunner;

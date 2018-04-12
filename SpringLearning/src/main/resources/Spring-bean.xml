@@ -3,9 +3,9 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
     <bean id="OneInterface" class="interfaces.OneInterfaceImpl"></bean>
-    <bean id="InjectionService" class="interfaces.InjectionServiceImpl">
+    <bean id="InjectionService" class="interfaces.Injection.InjectionServiceImpl">
         <property name="injectionDAO" ref="InjectionDAO"></property>
     </bean>
-    <bean id="InjectionDAO" class="interfaces.InjectionDAOImpl"></bean>
+    <bean id="InjectionDAO" class="interfaces.Injection.InjectionDAOImpl"></bean>
 
 </beans>
