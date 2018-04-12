@@ -10,7 +10,6 @@ public class TestBeanLifecycle extends UnitTestBase {
     }
 
     @Test
-
     public void test1() {
         super.getBean("BeanLifecycle");
     }
