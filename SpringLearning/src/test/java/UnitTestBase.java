@@ -4,6 +4,9 @@ import org.springframework.beans.BeansException;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import org.springframework.util.StringUtils;
 
+/**
+ * 测试用的基类
+ */
 public class UnitTestBase {
     private ClassPathXmlApplicationContext context;
     private String springXmlPath;
