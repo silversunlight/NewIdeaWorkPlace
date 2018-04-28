@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm/Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCocurrency/JavaCocurrency.iml" filepath="$PROJECT_DIR$/JavaCocurrency/JavaCocurrency.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaNetWork/JavaNetWork.iml" filepath="$PROJECT_DIR$/JavaNetWork/JavaNetWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWebLearning/JavaWebLearning.iml" filepath="$PROJECT_DIR$/JavaWebLearning/JavaWebLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/JustJava/JustJava.iml" filepath="$PROJECT_DIR$/JustJava/JustJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/NewIdeaWorkPlace.iml" filepath="$PROJECT_DIR$/NewIdeaWorkPlace.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringLearning/SpringLearning.iml" filepath="$PROJECT_DIR$/SpringLearning/SpringLearning.iml" />
