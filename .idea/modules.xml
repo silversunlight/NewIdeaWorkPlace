@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/NewIdeaWorkPlace.iml" filepath="$PROJECT_DIR$/NewIdeaWorkPlace.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringLearning/SpringLearning.iml" filepath="$PROJECT_DIR$/SpringLearning/SpringLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaIOStream/javaIOStream.iml" filepath="$PROJECT_DIR$/javaIOStream/javaIOStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootlearning/springbootlearning.iml" filepath="$PROJECT_DIR$/springbootlearning/springbootlearning.iml" />
     </modules>
   </component>
 </project>
